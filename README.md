@@ -8,6 +8,7 @@
   
 
     SECRET_KEY=your-secret-key-here
+    
     FLASK_APP=app.py
     
 - Test your new app by running `flask run` and typing `http://localhost:5000/` into your browser of choice. You should 
