@@ -2,7 +2,7 @@
 
 ## Getting Started:
 - Open a terminal in the project directory and type the command `python3 -m venv .venv`
-- Then enter the virtual environment with `source .venv/bin/activat` (`.venv\Scripts\activate` on Windows)
+- Then enter the virtual environment with `source .venv/bin/activate` (`.venv\Scripts\activate` on Windows)
 - To get all the packages, run `pip install -r requirements.txt`
 - Create a `.env` file in your base directory and add in:
   
